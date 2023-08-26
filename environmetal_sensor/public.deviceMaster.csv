@@ -1,0 +1,5 @@
+"%", "public.deviceMaster_properties.json"
+"$", "public.deviceMaster"
+"device1","b8:27:eb:bf:9d:51","Lagos","PV254","2023-08-26T00:01:39.589145+0000","pressure_valve"
+"device1","00:0f:00:70:91:0a","Lagos","PV234","2023-08-26T00:01:39.589145+0000","vacuum_valve"
+"device1","1c:bf:ce:15:ec:4d","Lagos","PV354","2023-08-26T00:01:39.589145+0000","compression_valve"
